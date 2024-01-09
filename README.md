@@ -12,7 +12,7 @@
 - 🛠️ Android Studio - Git - IntelliJ IDEA
   
 <br>
-# 💻 Stack:
+<h2>💻 Stack</h2>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +30,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+<h2>⚙️ &nbsp;GitHub Analytics</h2>
 
 <p align="center">
 <a href="https://github.com/aguilarelkin">
