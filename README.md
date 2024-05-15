@@ -8,7 +8,7 @@
 
 - 🎓 Computer engineer
 - 📲 Mobile developer
-- 👩‍💻 Java - Kotlin - Spring framework - Jetpack Compose - Next.js - Angular
+- 👩‍💻 Java - Kotlin - Spring framework - Jetpack Compose - Next.js - Angular - Flutter
 - 🛠️ Android Studio - Git - IntelliJ IDEA
   
 <br>
